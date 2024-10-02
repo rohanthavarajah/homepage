@@ -1,34 +1,48 @@
 ## Projects
 
 ### Thesis: Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty.
-https://github.com/rohanthavarajah/timevariant_annotators.gitThesis. Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. https://github.com/rohanthavarajah/timevariant_annotators.git 
 
+Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
 
-### Labor Market Mismatch
+[Repo](https://github.com/rohanthavarajah/timevariant_annotators.git)
 
-Modeled career pathways with a Hidden Markov Model and used EM to determine the emission and transition matrices characterizing the US labor market.
-
-https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git
+![Thesis](/assets/img/thesis.png)
 
 ### Social Security Sustainability
 
 Solved the numerical scheme of a hyperbolic PDE to get granular estimates of population by age group and assess the relative impact of policies targeting tax rate vs retirement age.
 
-https://github.com/rohanthavarajah/am205_social_security_sustainability.git
+[Repo](https://github.com/rohanthavarajah/am205_social_security_sustainability.git)
+
+![Thesis](/assets/img/am205.png)
+
+### Labor Market Mismatch
+
+Modeled career pathways with a Hidden Markov Model and used EM to determine the emission and transition matrices characterizing the US labor market.
+
+[Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git)
+
+![Thesis](/assets/img/cs182.png)
+
 
 ### Timeseries Database
 
 A Flask application for organizing timeseries that supports data visualization and search based on feature similarity.
-https://github.com/gitrdone4/cs207project.git
+
+[Repo](https://github.com/gitrdone4/cs207project.git)
+
 
 ### Patent Classification
 
 Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled patents to industries.
 Screencast: https://www.youtube.com/watch?v=OABl0ylTzsM&feature=youtu.be
-https://github.com/chrismosch/cs109patents.git
+
+[Repo](https://github.com/chrismosch/cs109patents.git)
 
 ## Publications
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
+
+![Thesis](/assets/img/mlst.png)
 
 - Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
