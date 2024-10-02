@@ -14,7 +14,7 @@ Solved the numerical scheme of a hyperbolic PDE to get granular estimates of pop
 
 [Repo](https://github.com/rohanthavarajah/am205_social_security_sustainability.git)
 
-![Thesis](/assets/img/am205.png)
+![AM205](/assets/img/am205.png)
 
 ### Labor Market Mismatch
 
@@ -22,7 +22,7 @@ Modeled career pathways with a Hidden Markov Model and used EM to determine the 
 
 [Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git)
 
-![Thesis](/assets/img/cs182.png)
+![CS182 ](/assets/img/cs182.png)
 
 
 ### Timeseries Database
@@ -43,6 +43,10 @@ Screencast: https://www.youtube.com/watch?v=OABl0ylTzsM&feature=youtu.be
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
 
-![Thesis](/assets/img/mlst.png)
+![MLST](/assets/img/mlst.png)
 
 - Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
+
+- “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. | AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
+
+![Turbofan](/assets/img/turbofan.png)
