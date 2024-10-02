@@ -57,6 +57,8 @@ Screencast: https://www.youtube.com/watch?v=OABl0ylTzsM&feature=youtu.be
 
 - Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
 
+![MIF](/assets/img/mif.png)
+
 - “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
 
 ![Turbofan](/assets/img/turbofan.png)
