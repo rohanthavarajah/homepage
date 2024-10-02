@@ -48,7 +48,6 @@ Modeled career pathways with a Hidden Markov Model and used EM to determine the 
 ### Patent Classification
 
 Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled patents to industries.
-Screencast: https://www.youtube.com/watch?v=OABl0ylTzsM&feature=youtu.be
 
 [Repo](https://github.com/chrismosch/cs109patents.git)
 
