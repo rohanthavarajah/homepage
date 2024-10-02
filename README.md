@@ -9,7 +9,7 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 [Repo](https://github.com/rohanthavarajah/timevariant_annotators.git)
 
-![Thesis](/assets/img/thesis_noborder.png)
+![Thesis](/assets/img/thesis_noborder_legend.png)
 
 ---
 
