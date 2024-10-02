@@ -7,9 +7,9 @@
 
 A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
 
-[Repo](https://github.com/rohanthavarajah/timevariant_annotators.git) | [PDF](assets/img/thesis.pdf)
-
 ![Thesis](/assets/img/thesis_noborder_legend.png)
+
+[Repo](https://github.com/rohanthavarajah/timevariant_annotators.git) | [PDF](assets/img/thesis.pdf)
 
 ---
 
@@ -33,25 +33,25 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 Solved the numerical scheme of a hyperbolic PDE to get granular estimates of population by age group and assess the relative impact of policies targeting tax rate vs retirement age.
 
-[Repo](https://github.com/rohanthavarajah/am205_social_security_sustainability.git) | [PDF](assets/img/am205.pdf)
-
 ![AM205](/assets/img/am205_noborder_grayscale.png)
+
+[Repo](https://github.com/rohanthavarajah/am205_social_security_sustainability.git) | [PDF](assets/img/am205.pdf)
 
 ### Labor Market Mismatch
 
 Modeled career pathways with a Hidden Markov Model and used EM to determine the emission and transition matrices characterizing the US labor market.
 
-[Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git) | [PDF](assets/img/cs182.pdf)
-
 ![CS182 ](/assets/img/cs182_noborder_grayscale.png)
+
+[Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git) | [PDF](assets/img/cs182.pdf)
 
 ### Patent Classification
 
 Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled patents to industries.
 
-[Repo](https://github.com/chrismosch/cs109patents.git)
-
 ![CS109](/assets/img/cs109_noborder_grayscale_upscale.png)
+
+[Repo](https://github.com/chrismosch/cs109patents.git) |
 
 ### Timeseries Database
 
