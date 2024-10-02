@@ -25,7 +25,7 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 - “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
 
-![Turbofan](/assets/img/turbofan_noborder_grayscale.png)
+![Turbofan](/assets/img/turbofan_noborder_modified.png)
 
 ## Projects
 
