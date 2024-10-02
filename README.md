@@ -7,7 +7,7 @@
 
 A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
 
-![Thesis](/assets/img/thesis_noborder_legend.png)
+![Thesis](/assets/img/thesis_noborder_grayscale.png)
 
 [Repo](https://github.com/rohanthavarajah/timevariant_annotators.git) | [PDF](assets/img/thesis.pdf)
 
