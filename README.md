@@ -17,7 +17,7 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
 
-![MLST](/assets/img/mlst_noborder_grayscale.png) | [PDF](assets/img/mlst.pdf)
+![MLST](/assets/img/mlst_noborder_grayscale.png)
 
 - Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
 
@@ -41,9 +41,9 @@ Solved the numerical scheme of a hyperbolic PDE to get granular estimates of pop
 
 Modeled career pathways with a Hidden Markov Model and used EM to determine the emission and transition matrices characterizing the US labor market.
 
-[Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git)
+[Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git) | [PDF](assets/img/cs182.pdf)
 
-![CS182 ](/assets/img/cs182_noborder_grayscale.png) | [PDF](assets/img/cs182.pdf)
+![CS182 ](/assets/img/cs182_noborder_grayscale.png)
 
 ### Patent Classification
 
