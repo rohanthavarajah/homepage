@@ -1,7 +1,7 @@
 ## Education
 
 - M.E., Computational Science and Engineering | Harvard University (_May 2018_)	 			        		
-- B.A. Hon, Economics and Mathematics | Columbia University (_May 2011_)
+- B.A. Hon, Economics and Mathematics         | Columbia University (_May 2011_)
 
 ### Thesis: Crowdsourcing with Evolving Annotators.
 
