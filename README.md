@@ -17,15 +17,15 @@ Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from m
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
 
-![MLST](/assets/img/mlst.png)
+![MLST](/assets/img/mlst_noborder.png)
 
 - Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
 
-![MIF](/assets/img/mif.png)
+![MIF](/assets/img/mif_noborder.png)
 
 - “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
 
-![Turbofan](/assets/img/turbofan.png)
+![Turbofan](/assets/img/turbofan_noborder.png)
 
 ## Projects
 
@@ -35,7 +35,7 @@ Solved the numerical scheme of a hyperbolic PDE to get granular estimates of pop
 
 [Repo](https://github.com/rohanthavarajah/am205_social_security_sustainability.git)
 
-![AM205](/assets/img/am205.png)
+![AM205](/assets/img/am205_noborder.png)
 
 ### Labor Market Mismatch
 
@@ -43,7 +43,7 @@ Modeled career pathways with a Hidden Markov Model and used EM to determine the 
 
 [Repo](https://github.com/rohanthavarajah/cs182_modeling_career_pathways.git)
 
-![CS182 ](/assets/img/cs182.png)
+![CS182 ](/assets/img/cs182_noborder.png)
 
 ### Patent Classification
 
@@ -52,7 +52,7 @@ Screencast: https://www.youtube.com/watch?v=OABl0ylTzsM&feature=youtu.be
 
 [Repo](https://github.com/chrismosch/cs109patents.git)
 
-![CS109](/assets/img/cs109.png)
+![CS109](/assets/img/cs109_noborder.png)
 
 ### Timeseries Database
 
