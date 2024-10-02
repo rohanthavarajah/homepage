@@ -13,15 +13,15 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 ## Publications
 
-- Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
+- Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “**A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.**” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
 
 ![MLST](/assets/img/mlst_noborder_grayscale.png)
 
-- Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
+- Thavarajah, Rohan, Xiang Zhai, Zheren Ma, and David Castineira. “**Fast Modeling and Understanding Fluid Dynamics Systems with Encoder–Decoder Networks.**” Machine Learning: Science and Technology 2, no. 2 (March 2021): 025022. https://doi.org/10.1088/2632-2153/abd1cf.
 
 ![MIF](/assets/img/mif_noborder_grayscale.png)
 
-- “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
+- “**Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries**” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
 
 ![Turbofan](/assets/img/turbofan_noborder_modified.png)
 
