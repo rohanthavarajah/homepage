@@ -51,7 +51,7 @@ Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled 
 
 [Repo](https://github.com/chrismosch/cs109patents.git)
 
-![CS109](/assets/img/cs109_noborder_grayscale.png)
+![CS109](/assets/img/cs109_noborder_grayscale_upscale.png)
 
 ### Timeseries Database
 
