@@ -11,8 +11,6 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 
 [Repo](https://github.com/rohanthavarajah/timevariant_annotators.git) | [PDF](assets/img/thesis.pdf)
 
----
-
 ## Publications
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
@@ -26,6 +24,8 @@ A Bayesian model to combine votes from multiple annotators with varying skill, s
 - “Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries,” March 23, 2022. https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/.
 
 ![Turbofan](/assets/img/turbofan_noborder_modified.png)
+
+---
 
 ## Projects
 
@@ -57,4 +57,4 @@ Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled 
 
 A Flask application for organizing timeseries that supports data visualization and search based on feature similarity.
 
-[Repo](https://github.com/gitrdone4/cs207project.git)
+[Repo](https://github.com/gitrdone4/cs207project.git) |
