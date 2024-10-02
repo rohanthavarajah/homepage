@@ -3,9 +3,9 @@
 - M.E., Computational Science and Engineering | Harvard University (_May 2018_)	 			        		
 - B.A. Hon, Economics and Mathematics | Columbia University (_May 2011_)
 
-### Thesis: Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty.
+### Thesis: Crowdsourcing with Evolving Annotators.
 
-Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
+A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
 
 [Repo](https://github.com/rohanthavarajah/timevariant_annotators.git)
 
