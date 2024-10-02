@@ -1,6 +1,5 @@
 ## Education
 
-## Education
 - M.E., Computational Science and Engineering | Harvard University (_May 2018_)	 			        		
 - B.A. Hon, Economics and Mathematics | Columbia University (_May 2011_)
 
@@ -10,7 +9,7 @@ Crowdsourcing with Evolving Annotators. A Bayesian model to combine votes from m
 
 [Repo](https://github.com/rohanthavarajah/timevariant_annotators.git)
 
-![Thesis](/assets/img/thesis.png)
+![Thesis](/assets/img/thesis_noborder.png)
 
 ---
 
