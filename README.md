@@ -1,3 +1,5 @@
+[Resume](assets/img/resume.pdf) | 
+
 ## Education
 
 - M.E., Computational Science and Engineering | Harvard University (_May 2018_)	 			        		
