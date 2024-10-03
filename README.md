@@ -64,3 +64,5 @@ A Flask application for organizing timeseries that supports data visualization a
 [Repo](https://github.com/gitrdone4/cs207project.git) |
 
 [Resume](assets/img/Resume.pdf) | 
+
+[LinkedIn](www.linkedin.com/in/rohan-thavarajah-861756a3) | 
