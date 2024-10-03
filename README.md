@@ -17,19 +17,19 @@ A Bayesian model for combining the votes of annotators of time-variant skill to 
 
 ![MLST](/assets/img/mlst_noborder_grayscale.png)
 
-[Link](https://iopscience.iop.org/article/10.1088/2632-2153/abd1cf) |
+[Journal](https://iopscience.iop.org/article/10.1088/2632-2153/abd1cf) |
 
 - Thavarajah, Rohan, Hamed Darabi, Nick Ruta, Amir Salehi, and Amir Kianinejad. “**A Deep Learning Framework for Multi-Horizon Probabilistic Production Forecasting in Unconventional Reservoirs.**” In Unconventional Resources Technology Conference, 20?22 June 2022, 2678–89. SEG Global Meeting Abstracts. Unconventional Resources Technology Conference (URTeC), 2022. https://doi.org/10.15530/urtec-2022-3723682.
 
 ![MIF](/assets/img/mif_noborder_grayscale.png)
 
-[Link](https://onepetro.org/URTECONF/proceedings-abstract/22URTC/3-22URTC/D031S055R001/489224) |
+[Conference](https://onepetro.org/URTECONF/proceedings-abstract/22URTC/3-22URTC/D031S055R001/489224) |
 
-- “**Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning. AWS for Industries**” March 23, 2022. Blog post.
+- “**Predicting the Failure of Turbofan Engines Using SpeedWise Machine Learning.**” March 23, 2022. AWS for Industries blog post.
 
 ![Turbofan](/assets/img/turbofan_noborder_modified.png)
 
-[Link](https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/) |
+[Blog](https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/) |
 
 ## Projects
 
