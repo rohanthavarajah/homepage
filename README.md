@@ -5,7 +5,7 @@
 
 ### Thesis: Crowdsourcing with Evolving Annotators.
 
-A Bayesian model to combine votes from multiple annotators with varying skill, simultaneously inferring object labels, credibility paths and task difficulty. 
+A Bayesian model for combining the votes of annotators of time-variant skill to improve label quality. 
 
 ![Thesis](/assets/img/thesis_noborder_grayscale2.png)
 
