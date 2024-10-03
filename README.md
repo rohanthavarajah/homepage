@@ -1,5 +1,3 @@
-[Resume](assets/img/resume.pdf) | 
-
 ## Education
 
 - M.E., Computational Science and Engineering | Harvard University (_May 2018_)	 			        		
@@ -33,8 +31,6 @@ A Bayesian model for combining the votes of annotators of time-variant skill to 
 
 [Link](https://aws.amazon.com/blogs/industries/predicting-the-failure-of-turbofan-engines-using-speedwise-machine-learning/) |
 
----
-
 ## Projects
 
 ### Social Security Sustainability
@@ -66,3 +62,5 @@ Parsed USPTO patent data (Spark) and used topic analysis (LDA) to map unlabeled 
 A Flask application for organizing timeseries that supports data visualization and search based on feature similarity.
 
 [Repo](https://github.com/gitrdone4/cs207project.git) |
+
+[Resume](assets/img/Resume.pdf) | 
